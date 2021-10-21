@@ -1,3 +1,3 @@
 # Algorytmy i struktury danych
 
-W folderze "Zadania" znajdują się treści niektórych zadań.
+W folderze "ASD_tresci_zadan" znajdują się treści niektórych zadań.
