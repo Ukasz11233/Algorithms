@@ -1,5 +1,3 @@
-#Wstep
+# Algorytmy i struktury danych
 
-Algorytmy i struktury danych
-
-##koniec
+W folderze "Zadania" znajdują się treści niektórych zadań.
