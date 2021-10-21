@@ -1,3 +1,5 @@
 #Wstep
 
-Algorytmy
+Algorytmy i struktury danych
+
+##koniec
